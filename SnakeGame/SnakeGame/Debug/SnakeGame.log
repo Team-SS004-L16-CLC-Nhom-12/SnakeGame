@@ -1,0 +1,12 @@
+﻿  ENTITY.cpp
+D:\TAI_LIEU_HOC_TAP\Pending Subject\KY NANG NGHE NGHIEP\SnakeGame\SnakeGame\SnakeGame\source\GameMechanism.h(158,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\TAI_LIEU_HOC_TAP\Pending Subject\KY NANG NGHE NGHIEP\SnakeGame\SnakeGame\SnakeGame\source\GameMechanism.h(164,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameMechanism.cpp
+D:\TAI_LIEU_HOC_TAP\Pending Subject\KY NANG NGHE NGHIEP\SnakeGame\SnakeGame\SnakeGame\source\GameMechanism.h(158,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\TAI_LIEU_HOC_TAP\Pending Subject\KY NANG NGHE NGHIEP\SnakeGame\SnakeGame\SnakeGame\source\GameMechanism.h(164,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HighScore.cpp
+  main.cpp
+D:\TAI_LIEU_HOC_TAP\Pending Subject\KY NANG NGHE NGHIEP\SnakeGame\SnakeGame\SnakeGame\source\GameMechanism.h(158,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\TAI_LIEU_HOC_TAP\Pending Subject\KY NANG NGHE NGHIEP\SnakeGame\SnakeGame\SnakeGame\source\GameMechanism.h(164,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  SnakeGame.vcxproj -> D:\TAI_LIEU_HOC_TAP\Pending Subject\KY NANG NGHE NGHIEP\SnakeGame\SnakeGame\Debug\SnakeGame.exe
