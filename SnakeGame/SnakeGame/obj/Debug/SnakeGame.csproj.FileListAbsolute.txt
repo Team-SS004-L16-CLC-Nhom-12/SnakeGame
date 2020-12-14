@@ -1,0 +1,10 @@
+D:\TAI_LIEU_HOC_TAP\Pending Subject\KY NANG NGHE NGHIEP\CSSnakeGame\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\TAI_LIEU_HOC_TAP\Pending Subject\KY NANG NGHE NGHIEP\CSSnakeGame\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+D:\TAI_LIEU_HOC_TAP\Pending Subject\KY NANG NGHE NGHIEP\CSSnakeGame\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\TAI_LIEU_HOC_TAP\Pending Subject\KY NANG NGHE NGHIEP\CSSnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
+D:\TAI_LIEU_HOC_TAP\Pending Subject\KY NANG NGHE NGHIEP\CSSnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Form1.resources
+D:\TAI_LIEU_HOC_TAP\Pending Subject\KY NANG NGHE NGHIEP\CSSnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+D:\TAI_LIEU_HOC_TAP\Pending Subject\KY NANG NGHE NGHIEP\CSSnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+D:\TAI_LIEU_HOC_TAP\Pending Subject\KY NANG NGHE NGHIEP\CSSnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+D:\TAI_LIEU_HOC_TAP\Pending Subject\KY NANG NGHE NGHIEP\CSSnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+D:\TAI_LIEU_HOC_TAP\Pending Subject\KY NANG NGHE NGHIEP\CSSnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
