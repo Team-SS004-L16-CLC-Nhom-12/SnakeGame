@@ -233,7 +233,7 @@ namespace SnakeGame
             }
             if ((string)comboBox1.Text == "Hard")
             {
-                timer1.Interval = 25;
+                timer1.Interval = 100;
                 thegame.incScore = 16;
             }
             thegame.inGame = true;
@@ -263,6 +263,11 @@ namespace SnakeGame
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
         {
 
         }
