@@ -307,7 +307,7 @@ public:
 				Renderer(); // render
 
 
-				Sleep(200 / diff+1);
+				Sleep(100 /(diff+1));
 
 
 				
